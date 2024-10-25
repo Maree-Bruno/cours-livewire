@@ -1,3 +1,4 @@
+
 @if ($paginator->hasPages())
     <div role="navigation"
          aria-label="{{ __('Pagination Navigation') }}"

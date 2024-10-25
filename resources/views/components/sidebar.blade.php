@@ -10,7 +10,7 @@
             <div class="text-indigo-300 group-hover:text-white">Dashboard</div>
         </a></div>
     <div class="mb-4"><a class="group flex items-center py-3"
-                         href="/organizations">
+                         href="/organizations" wire:navigate>
             <svg xmlns="http://www.w3.org/2000/svg"
                  width="100"
                  height="100"
